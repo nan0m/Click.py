@@ -13,5 +13,6 @@ Click.
 ---
 An app that narrates your clicking to invite you to ruminate if your doing contains any sort of purpose or you have just given to the false-pleasure of clicking.
 
---- CUSTOMIZATION---
+--- CUSTOMIZATION OPTION ---
+
 you can replace the mp3files with similar named one's to have your very own personalized clicking narrator.
