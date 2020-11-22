@@ -1,7 +1,7 @@
 # Click
 A commentary on the senseless nature of shifting bits around, and an unveiling of the miniscule magnitude of your digital actions
 
-
+---
 
 Have you ever found yourself in Kraxophony? 
 Well, maybe, but you wouldn't know because I invented that term.
@@ -10,4 +10,8 @@ Well, when I am in Kraxophony, I often end up browsing the web. My mind likes to
 Ultimately, this is my contribution into the world of productivity apps:
 Click.
 
+---
 An app that narrates your clicking to invite you to ruminate if your doing contains any sort of purpose or you have just given to the false-pleasure of clicking.
+
+--- CUSTOMIZATION---
+you can replace the mp3files with similar named one's to have your very own personalized clicking narrator.
