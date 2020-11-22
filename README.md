@@ -12,7 +12,7 @@ Click.
 
 ---
 
-An app that narrates your clicking to invite you to ruminate if your doing contains any sort of purpose or you have just given to the false-pleasure of clicking.
+An app that narrates your clicking to invite you to ruminate if your doing contains any sort of purpose or you have just given in to the false-pleasure of clicking.
 
 
 
